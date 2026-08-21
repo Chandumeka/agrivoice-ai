@@ -1,0 +1,6 @@
+{
+  "name": "AgriVoice AI",
+  "description": "Advanced Multilingual AI Voice Farmer Agent with Computer Vision, Weather & Market Intelligence",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
